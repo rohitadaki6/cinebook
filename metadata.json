@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CineBook - Premium Movie Booking Experience",
+  "description": "A high-fidelity movie booking application with real-time showtime selection, movie details, and an AI-powered movie search engine using Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
